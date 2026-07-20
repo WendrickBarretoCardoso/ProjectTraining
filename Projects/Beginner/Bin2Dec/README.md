@@ -2,8 +2,6 @@
 
 > **Idea from:** https://github.com/florinpop17/app-ideas
 
-**Demo:** Codesandbox
-
 **Nível:** 🟢 1 - Iniciante
 
 ## 📖 Descrição
